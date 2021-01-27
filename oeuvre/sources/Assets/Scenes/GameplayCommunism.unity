@@ -6452,7 +6452,7 @@ MonoBehaviour:
   - {fileID: 482934190}
   - {fileID: 263311933}
   - {fileID: 1367236389}
-  _gameType: Standart Socialism
+  _gameType: Communism
   _losePanel: {fileID: 1473184953}
   _days: {fileID: 104426308}
   _loseReason: {fileID: 781430633}
